@@ -1,0 +1,19 @@
+{
+  "name": "mmorpg",
+  "version": "1.0.0",
+  "description": "An MMORPG made in TypeScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SynicalMX/Dungeons.git"
+  },
+  "author": "Synical",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SynicalMX/Dungeons/issues"
+  },
+  "homepage": "https://github.com/SynicalMX/Dungeons#readme"
+}
